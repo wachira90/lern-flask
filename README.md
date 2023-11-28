@@ -24,4 +24,8 @@ pip install flask
 
 ```sh
 flask --app main run -p 3000 -h 0.0.0.0
+
+flask --app main run -p 3000 -h 0.0.0.0 --debug
+
+python -m flask --app main run -p 3000 -h 0.0.0.0
 ```
