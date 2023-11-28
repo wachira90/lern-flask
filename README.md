@@ -29,3 +29,9 @@ flask --app main run -p 3000 -h 0.0.0.0 --debug
 
 python -m flask --app main run -p 3000 -h 0.0.0.0
 ```
+
+### build on docker 
+
+https://github.com/wachira90/docker-build-flask.git
+
+
